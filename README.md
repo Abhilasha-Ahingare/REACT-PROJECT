@@ -1,6 +1,7 @@
 
 ## 🚀 **Project Name**  
 1:**expense tracker:**
+2: **BMI CALCULATER:**
 
 ---
 
