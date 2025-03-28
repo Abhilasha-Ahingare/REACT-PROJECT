@@ -13,11 +13,12 @@ If you are developing a production application, we recommend using TypeScript an
 
 ## 🚀 **Project Name**
 
-1:**expense tracker:**
-2: **BMI CALCULATER:**
-3: **weather app:**
-4: **link priviwer:**
-5:**daliy task added app:**
+1**expense tracker:**
+2 **BMI CALCULATER:**
+3 **weather app:**
+4 **link priviwer:**
+5**daliy task added app:**
+6** counter :**
 
 
 ---
